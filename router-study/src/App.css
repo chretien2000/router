@@ -1,0 +1,6 @@
+.header{display: flex;justify-content: space-around;
+margin:0px 0px 15px ;padding: 10px;
+background-color: rgb(154, 235, 235);}
+.footer{background-color: rgb(173, 134, 209); text-align: center;
+margin: 30px 0px 0px;padding: 8px;}
+.header>a{text-decoration: none; color: rgb(108, 81, 46);}
